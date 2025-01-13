@@ -1,0 +1,72 @@
+.certificate {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+}
+
+.card {
+    text-align: center;
+    justify-items: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.certificate {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    gap: 20px;
+
+    margin-top: 20px;
+}
+
+.card>div {
+    flex: 1 1 300px;
+
+    max-width: 300px;
+
+}
+
+
+@media (max-width: 600px) {
+    .card {
+        justify-content: center;
+    }
+
+    .card>div {
+        flex: 1 1 100%;
+        flex-wrap: wrap;
+        max-width: 100%;
+
+    }
+}
+
+
+@media (max-width: 900px) {
+    .card>div {
+        flex: 1 1 65%;
+
+        max-width: 65%;
+
+    }
+}
+
+/* On larger screens (desktop), use default behavior */
+@media (min-width: 900px) {
+    .card>div {
+        flex: 1 1 23%;
+        /* Cards take 23% of the width, 4 cards in a row */
+        max-width: 23%;
+        /* Cards shouldn't exceed 23% width */
+    }
+}

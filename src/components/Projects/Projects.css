@@ -1,0 +1,15 @@
+.projects-section {
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.project {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

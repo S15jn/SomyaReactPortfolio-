@@ -1,0 +1,32 @@
+footer {
+    display: flex;
+    justify-content: center;
+    justify-items: end;
+    margin: 20px;
+
+}
+
+.line {
+    border: 2px solid black;
+    background-color: black;
+}
+
+.liness {
+    border: 1px soild black;
+}
+
+.icons {
+    margin: 2rem;
+    justify-items: end;
+    display: flex;
+    justify-items: end;
+
+    align-items: end;
+}
+
+.cont-text {
+    margin: 2rem;
+
+
+    align-items: end;
+}

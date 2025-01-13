@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 5px;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+  overflow: hidden;
+}
+
+.poppins-medium {
+  font-family: "Poppins", serif;
+  font-weight: 500;
+  font-style: normal;
+}

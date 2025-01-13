@@ -1,0 +1,16 @@
+button {
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    padding: 2px;
+    cursor: pointer;
+
+}
+
+.btns {
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+    gap: 20px;
+    display: flex;
+}

@@ -1,0 +1,6 @@
+.imgView {
+    display: flex;
+    justify-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+}
