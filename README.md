@@ -1,6 +1,9 @@
 # Somya's Portfolio 
 
-This responsive React portfolio showcases creativity with Material-UI for sleek design, animations for dynamic interactions, and robust functionality powered by npm packages. It highlights projects, skills, and experiences, ensuring an engaging user experience across devices. Thoughtfully crafted, it reflects modern design principles, interactive elements, and seamless navigation to make a lasting impression.![Logo](https://drive.google.com/uc?export=view&id=1n4HxaeMorJGPMq9UsGDR4bWLcVSQaVjt)
+This responsive React portfolio showcases creativity with Material-UI for sleek design, animations for dynamic interactions, and robust functionality powered by npm packages. It highlights projects, skills, and experiences, ensuring an engaging user experience across devices. Thoughtfully crafted, it reflects modern design principles, interactive elements, and seamless navigation to make a lasting impression.
+
+
+![Logo](https://drive.google.com/uc?export=view&id=1n4HxaeMorJGPMq9UsGDR4bWLcVSQaVjt)
 
 
 
