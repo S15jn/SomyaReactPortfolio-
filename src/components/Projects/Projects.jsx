@@ -8,7 +8,7 @@ import { styled } from '@mui/material/styles';
 
 import weatherImage from './projectassets/Weather.png';
 import OCHI from './projectassets/Ochi.png';
-import todo from './projectassets/todo.png';
+import todo from './projectassets/Todo.png';
 import Heading from '../Heading/heading';
 
 const Item = styled(Paper)(({ theme }) => ({
