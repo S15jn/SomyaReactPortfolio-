@@ -47,7 +47,7 @@ const Experience = () => {
                         className="aero"
                         style={{
                             position: "absolute",
-                            top: `${scrollPosition * 0.5 % window.innerHeight}px `,
+                            top: `${scrollPosition * 0.4 % window.innerHeight}px `,
                             left: "-25px",
                             transition: "top 0.1s ease-in",
                         }}
