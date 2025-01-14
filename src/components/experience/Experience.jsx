@@ -53,6 +53,7 @@ const Experience = () => {
                         }}
                     >
                         <MdOutlineAirplanemodeActive size={50} color="#ffae08" />
+                        
                     </div>
                 </div>
                 <div className="exp-right">
