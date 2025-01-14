@@ -26,6 +26,7 @@ This responsive React portfolio showcases creativity with Material-UI for sleek 
 Install dependencies:
 
 ```bash
+cd Portfolio  
 npm install 
 
 ```
