@@ -39,7 +39,7 @@ const Experience = () => {
                         position: "relative",
                         height: "130vh",
                         width: "2px",
-                        backgroundColor: "#bebbbb",
+                        backgroundColor: "#000",
                         margin: "0 auto",
                     }}
                 >
@@ -47,12 +47,12 @@ const Experience = () => {
                         className="aero"
                         style={{
                             position: "absolute",
-                            top: `${scrollPosition % window.innerHeight}px`,
-                            left: "-20px",
-                            transition: "top 0.1s ease-out",
+                            top: `${scrollPosition * 0.5 % window.innerHeight}px `,
+                            left: "-25px",
+                            transition: "top 0.1s ease-in",
                         }}
                     >
-                        <MdOutlineAirplanemodeActive size={40} color="#000" />
+                        <MdOutlineAirplanemodeActive size={50} color="#ffae08" />
                     </div>
                 </div>
                 <div className="exp-right">

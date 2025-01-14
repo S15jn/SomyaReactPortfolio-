@@ -14,3 +14,8 @@ button {
     gap: 20px;
     display: flex;
 }
+
+.ani:hover {
+    scale: 1.4;
+   
+}
