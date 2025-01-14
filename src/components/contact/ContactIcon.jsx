@@ -5,7 +5,7 @@ import ReactDOM from "react-dom";
 import UseAnimations from 'react-useanimations';
 import github from 'react-useanimations/lib/github';
 import linkedin from 'react-useanimations/lib/linkedin';
-import instagram from 'react-useanimations/lib/instagram';
+// import instagram from 'react-useanimations/lib/instagram';
 
 
 const ContactIcon = () => {
@@ -30,7 +30,7 @@ const ContactIcon = () => {
                     scale: 1.2,
                     transition: { duration: 1 },
                 }}
-                    whileTap={{ scale: 0.9 }} onClick={() => handleRedirect("www.linkedin.com/in/somyajain2002")}>
+                    whileTap={{ scale: 0.9 }} onClick={() => handleRedirect("https://www.linkedin.com/in/somyajain2002/")}>
                     {/* <LinkedInIcon /> */}
                     <UseAnimations animation={linkedin} className='ani' />
 
