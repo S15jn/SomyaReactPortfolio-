@@ -31,7 +31,7 @@ npm install
 npm run dev
 
 ```
-Material UI:
+Material UI && Tailwind CSS:
   
 ```bash
 npm install @mui/material @emotion/react @emotion/styled
@@ -39,7 +39,11 @@ npm install @mui/material @emotion/react @emotion/styled
 npm install @mui/material @mui/styled-engine-sc styled-components
 
 npm install @mui/icons-material
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 ```
+ 
 
 React Icon Install:
    
