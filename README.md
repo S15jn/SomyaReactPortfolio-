@@ -27,7 +27,8 @@ Install dependencies:
 
 ```bash
 cd Portfolio  
-npm install 
+npm install
+npm run dev
 
 ```
 Material UI:
